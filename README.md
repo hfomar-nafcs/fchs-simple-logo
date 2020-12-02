@@ -4,7 +4,7 @@
 <kbd>
 <img src="https://github.com/hfomar-nafcs/fchs-simple-logo/raw/main/512h/Artboard%201.png"></img>
 </kbd>
-<br\>
+<br/>
 ## Thick Font
 <kbd>
 <img src="https://github.com/hfomar-nafcs/fchs-simple-logo/raw/main/Thick%20Font/512h/Artboard%201.png"></img>
