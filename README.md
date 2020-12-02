@@ -1,5 +1,6 @@
-# Floyd Central Simple iCrew Logo v1
-<html>
+<html style={font-family:system-ui;}>
+  <h1>Floyd Central Simple iCrew Logo v1</h1>
+
 <h2>Thin Font</h2>
 <kbd>
 <img src="https://github.com/hfomar-nafcs/fchs-simple-logo/raw/main/512h/Artboard%201.png"></img>
